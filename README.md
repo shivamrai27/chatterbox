@@ -6,7 +6,7 @@
 ### Login Page
 ![Demo App](https://github.com/shivamrai27/chatterbox/blob/master/login.png)
 
-###Chat Dashboardd
+### Chat Dashboardd
 ![Demo App](https://github.com/shivamrai27/chatterbox/blob/master/screenshot.png)
 
 [Live Demo Link]()
